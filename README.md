@@ -1,5 +1,5 @@
 # ansible-docker-lab
-Docker-Based Ansible Lab for Hands-On Practice
+## Docker-Based Ansible Lab for Hands-On Practice
 
 This repository provides a complete, lightweight Docker-based lab setup for practicing Ansible on a personal computer. It includes:
 
